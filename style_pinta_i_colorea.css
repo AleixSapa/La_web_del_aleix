@@ -1,0 +1,11 @@
+h1 {
+  width: 6.2cm;
+  height: 0.9cm;
+  color: red;
+  background-color: blueviolet;
+}
+body,
+button,
+a {
+  background-color: aqua;
+}
