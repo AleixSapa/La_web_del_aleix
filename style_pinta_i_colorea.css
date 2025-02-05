@@ -4,8 +4,7 @@ h1 {
   color: red;
   background-color: blueviolet;
 }
-body,
-button,
-a {
+
+button {
   background-color: aqua;
 }
